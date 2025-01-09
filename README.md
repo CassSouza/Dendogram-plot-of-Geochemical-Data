@@ -1,1 +1,1 @@
-# Dendogram-plot-of-Geochemical-Data
+# Dendogram plot of geochemical data
