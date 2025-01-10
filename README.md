@@ -1,4 +1,4 @@
-# Dendogram - Hierarchical Clustering
+Hierarchical Clustering - Dendogram
 
 Hierarchical clustering is an unsupervised machine learning algorithm that groups data into a tree of nested clusters. The hierarchical cluster analysis helps find patterns and connections in datasets. Results are presented in a dendrogram diagram showing the distance relationships between clusters (the distance between the elements is directly proportional to the correlation between them. Elements within a cluster have similar affinities and behaviors).
 
