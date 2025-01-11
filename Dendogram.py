@@ -37,7 +37,7 @@ fig.savefig(f"{git_repo.working_tree_dir}\\Dendogram Plot\\Dendogram.jpeg", dpi=
 #Plot correlation matrix:
 fig, ax = plt.subplots(ncols=1, nrows=1, figsize=(12, 10), layout='constrained')
 
-#To not display the redundante information, active the three line code below:
+#To remove the redundante information (the top half of the correlation matrix), active the three line code below:
 #mask = np.zeros_like(corr, dtype=bool)
 #mask[np.triu_indices_from(mask)] = True
 #corr[mask] = np.nan
